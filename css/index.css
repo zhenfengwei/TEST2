@@ -427,7 +427,7 @@
     height: 150px;
 }
 .picture ul li img{
-    width: 1166px;
+    width: 1132px;
     padding:30px 0;
 }
 .phone div h5{
@@ -467,7 +467,7 @@
     width:150px;
 }
 .phone .right ul{
-    width:219px;
+    width:215px;
     height: 284px;
     background: #fff;
     margin-right: 8px;
@@ -514,7 +514,7 @@
     color:#b0b0b0;
 }
 .phone .p1 img{
-    width: 1166px;
+    width: 1132px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -561,7 +561,7 @@
     margin-top: 10px;
 }
 .tv .right {
-    width:219px;
+    width:215px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -645,7 +645,7 @@
     cursor: pointer;
 }
 .tv .p1 img{
-    width: 1166px;
+    width: 1132px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -692,7 +692,7 @@
     margin-top: 10px;
 }
 .fashion .right {
-    width:223px;
+    width:215px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -746,7 +746,7 @@
     top:30px;
 }
 .fashion .right1{
-    width:219px;
+    width:215px;
     height: 140px;
     background: #fff;
     position: relative;
@@ -823,7 +823,7 @@
     margin-top: 10px;
 }
 .and .right {
-    width:219px;
+    width:215px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -877,7 +877,7 @@
     top:30px;
 }
 .and .right1{
-    width:223px;
+    width:215px;
     height: 140px;
     background: #fff;
     margin-left: 10px;
@@ -908,7 +908,7 @@
     cursor: pointer;
 }
 .and .p1 img{
-    width: 1166px;
+    width: 1132px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -955,7 +955,7 @@
     margin-top: 10px;
 }
 .parts .right {
-    width:219px;
+    width:215px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -1009,7 +1009,7 @@
     top:30px;
 }
 .parts .right1{
-    width:219px;
+    width:215px;
     height: 140px;
     background: #fff;
     margin-left: 10px;
@@ -1040,7 +1040,7 @@
     cursor: pointer
 }
 .parts .p1 img{
-    width: 1166px;
+    width: 1132px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -1087,7 +1087,7 @@
     margin-top: 10px;
 }
 .under .right {
-    width:219px;
+    width:215px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -1141,7 +1141,7 @@
     top:30px;
 }
 .under .right1{
-    width:219px;
+    width:215px;
     height: 140px;
     background: #fff;
     margin-left: 10px;
@@ -1172,7 +1172,7 @@
     cursor: pointer;
 }
 .under .p1 img{
-    width: 1166px;
+    width: 1132px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -1222,7 +1222,7 @@
     margin-top: 40px;
 }
 .come div ul{
-    width:219px;
+    width:215px;
     height: 300px;
     background: #fff;
     margin-left: 11px;
@@ -1261,7 +1261,7 @@
     height: 200px;
 }
 .hot div ul{
-    width:275px;
+    width:272px;
     height: 400px;
     background: #fff;
     margin-left: 13px;
@@ -1314,7 +1314,7 @@
     height: 154px;
 }
 .inside div ul {
-    width:275px;
+    width:272px;
     height: 420px;
     background: #fff;
     margin-left: 13px;
@@ -1413,11 +1413,11 @@
     cursor: pointer;
 }
 .video div ul li img{
-    width:279px;
+    width:272px;
     height: 180px;
 }
 .video div ul {
-    width:279px;
+    width:272px;
     height: 285px;
     background: #fff;
     margin-left: 13px;
@@ -1457,6 +1457,9 @@
 }
 .bottom div hr{
     color:#ccc;
+}
+.bottom1 div{
+    text-align: center;
 }
 .bottom1 div p{
     font-size:12px;

@@ -284,7 +284,7 @@
     margin-left: 10px;
 }
 .second ul:last-child li img{
-    width: 297px;
+    width: 293px;
     height: 164px;
     cursor: pointer;
 }
@@ -362,7 +362,7 @@
     color:#ff6700;
 }
 .buy ul{
-    width:223px;
+    width:219px;
     height: 321px;
     border: 1px solid #ccc;
     display: inline-block;
@@ -467,7 +467,7 @@
     width:150px;
 }
 .phone .right ul{
-    width:223px;
+    width:219px;
     height: 284px;
     background: #fff;
     margin-right: 8px;
@@ -561,7 +561,7 @@
     margin-top: 10px;
 }
 .tv .right {
-    width:223px;
+    width:219px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -746,7 +746,7 @@
     top:30px;
 }
 .fashion .right1{
-    width:223px;
+    width:219px;
     height: 140px;
     background: #fff;
     position: relative;
@@ -823,7 +823,7 @@
     margin-top: 10px;
 }
 .and .right {
-    width:223px;
+    width:219px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -955,7 +955,7 @@
     margin-top: 10px;
 }
 .parts .right {
-    width:223px;
+    width:219px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -1009,7 +1009,7 @@
     top:30px;
 }
 .parts .right1{
-    width:223px;
+    width:219px;
     height: 140px;
     background: #fff;
     margin-left: 10px;
@@ -1087,7 +1087,7 @@
     margin-top: 10px;
 }
 .under .right {
-    width:223px;
+    width:219px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -1141,7 +1141,7 @@
     top:30px;
 }
 .under .right1{
-    width:223px;
+    width:219px;
     height: 140px;
     background: #fff;
     margin-left: 10px;
@@ -1222,7 +1222,7 @@
     margin-top: 40px;
 }
 .come div ul{
-    width:223px;
+    width:219px;
     height: 300px;
     background: #fff;
     margin-left: 11px;
@@ -1257,11 +1257,11 @@
     cursor: pointer;
 }
 .hot div ul li img{
-    width:279px;
+    width:275px;
     height: 200px;
 }
 .hot div ul{
-    width:279px;
+    width:275px;
     height: 400px;
     background: #fff;
     margin-left: 13px;
@@ -1314,7 +1314,7 @@
     height: 154px;
 }
 .inside div ul {
-    width:279px;
+    width:275px;
     height: 420px;
     background: #fff;
     margin-left: 13px;

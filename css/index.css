@@ -615,7 +615,7 @@
     top:30px;
 }
 .tv .right1{
-     width:223px;
+     width:217px;
      height: 140px;
      background: #fff;
      position: relative;
@@ -645,7 +645,7 @@
     cursor: pointer;
 }
 .tv .p1 img{
-    width: 1132px;
+    width: 1126px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -746,7 +746,7 @@
     top:30px;
 }
 .fashion .right1{
-    width:215px;
+    width:217px;
     height: 140px;
     background: #fff;
     position: relative;
@@ -776,7 +776,7 @@
     cursor: pointer;
 }
 .fashion .p1 img{
-    width: 1166px;
+    width: 1126px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -823,7 +823,7 @@
     margin-top: 10px;
 }
 .and .right {
-    width:215px;
+    width:217px;
     height: 300px;
     background: #fff;
     margin-left: 10px;
@@ -908,7 +908,7 @@
     cursor: pointer;
 }
 .and .p1 img{
-    width: 1132px;
+    width: 1126px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -1040,7 +1040,7 @@
     cursor: pointer
 }
 .parts .p1 img{
-    width: 1132px;
+    width: 1127px;
     padding:30px 0;
     position: relative;
     right:15px;
@@ -1141,7 +1141,7 @@
     top:30px;
 }
 .under .right1{
-    width:215px;
+    width:217px;
     height: 140px;
     background: #fff;
     margin-left: 10px;
@@ -1222,7 +1222,7 @@
     margin-top: 40px;
 }
 .come div ul{
-    width:215px;
+    width:217px;
     height: 300px;
     background: #fff;
     margin-left: 11px;
@@ -1446,7 +1446,7 @@
 .bottom div h5{
     display: inline-block;
     font-size:18px;
-    padding:20px 50.5px;
+    padding:20px 48px;
 }
 .bottom div h5:hover{
     cursor: pointer;
@@ -1460,7 +1460,7 @@
 }
 .bottom1 div div p{
     font-size:12px;
-    padding:0px 49px;
+    padding:0px 47px;
     color:#616161;
 }
 .bottom1 div div:nth-of-type(1){

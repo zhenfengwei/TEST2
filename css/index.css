@@ -1458,53 +1458,53 @@
 .bottom div hr{
     color:#ccc;
 }
-.bottom1 div{
-    text-align: center;
-}
-.bottom1 div p{
+.bottom1 div div p{
     font-size:12px;
     padding:0px 49px;
     color:#616161;
 }
-.bottom1 div p:nth-of-type(1){
+.bottom1 div div:nth-of-type(1){
+    margin-left: 14px;
+}
+.bottom1 div div p:nth-of-type(1){
     font-size:14px;
     padding:20px 49px 10px;
     color:#000;
 }
-.bottom1 div:nth-of-type(1) p{
+.bottom1 div div:nth-of-type(1) p{
     padding:0px 49px 0px 0px;
 }
-.bottom1 div:nth-of-type(1) p:nth-of-type(1){
+.bottom1 div div:nth-of-type(1) p:nth-of-type(1){
     padding:20px 49px 10px 0px;
 }
-.bottom1 div p:nth-of-type(2):hover{
+.bottom1 div div p:nth-of-type(2):hover{
     cursor: pointer;
     color:#ff6700;
 }
-.bottom1 div p:nth-of-type(3):hover{
+.bottom1 div div p:nth-of-type(3):hover{
     cursor: pointer;
     color:#ff6700;
 }
-.bottom1 div p:nth-of-type(4):hover{
+.bottom1 div div p:nth-of-type(4):hover{
     cursor: pointer;
     color:#ff6700;
 }
-.bottom1 .divfour{
+.bottom1 div.divfour{
     border-left: 1px solid #cccccc;
     margin-left: 3px;
 }
-.bottom1 div:nth-of-type(7) p:nth-of-type(1){
+.bottom1 div div:nth-of-type(7) p:nth-of-type(1){
     padding:20px 50px 0px;
     font-size: 22px;
     color:#ff6700;
 }
-.bottom1 div:nth-of-type(7) p:nth-of-type(2){
+.bottom1 div div:nth-of-type(7) p:nth-of-type(2){
     width:230px;
     text-align: center;
     font-size: 12px;
     color:#616161;
 }
-.bottom1 div:nth-of-type(7) p:nth-of-type(3){
+.bottom1 div div:nth-of-type(7) p:nth-of-type(3){
     font-size: 14px;
     padding:2px 0 0;
     width: 118px;
@@ -1514,7 +1514,7 @@
     text-align: center;
     color:#ff6700;
 }
-.bottom1 div:nth-of-type(7) p:nth-of-type(3):hover{
+.bottom1 div div:nth-of-type(7) p:nth-of-type(3):hover{
     background: #ff6700;
     color:#fff;
 }
